@@ -8,3 +8,4 @@ for i in range(20):
     s += a[i]
 
 print(s)
+print()
